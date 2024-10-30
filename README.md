@@ -13,7 +13,7 @@ Our setup used Ubuntu 20.04 LTS, Mininet V2.3.0, and Open vSwitch (OVS) V2.13.1.
 # Results
 The Decision Tree (DT) algorithm demonstrated strong accuracy in detecting SYN flood and ICMP flood attacks, while both DT and Random Forest (RF) performed similarly well in identifying UDP flood attacks. A detailed comparison of results is shown in the accompanying figure.
 <p align="center">
-  <img src="accuracy.png" alt="SHAP Visualization" width="500"/>
+  <img src="accuracy.png" alt="Unable to Load Image" width="500"/>
   <br>
-  <em>Figure 1: SHAP's Beeswarm Plot </em>
+  <em>Figure 1: Accuracy Results </em>
 </p>
